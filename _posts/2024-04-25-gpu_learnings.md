@@ -19,7 +19,21 @@ I identified the mistake and correctly inputted this command to get the cpufroze
 git clone --branch cpufrozen https://github.com/lovellbrian/course22
 ```
 
-## Basic formatting
+## Running GPUs
+
+Using a CPU for my daily activities, it was great fun using the **Nvidia GeForce RTX 2080** powered GPUs available in the labs in 78-336. I experimented with different batch sizes:
+
+ - 16
+ - 32
+ - 64
+ - 128
+ - 256
+
+The GPU increased the training speed by more than 5 times for the maximum speedup as compared to the CPU.
+
+| CPU | GPU |
+|-|-|
+| 16s | 3s |
 
 You can use *italics*, **bold**, `code font text`, and create [links](https://www.markdownguide.org/cheat-sheet/). Here's a footnote [^1]. Here's a horizontal rule:
 
