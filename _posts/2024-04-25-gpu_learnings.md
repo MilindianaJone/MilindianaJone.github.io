@@ -35,57 +35,11 @@ The GPU increased the training speed by more than 5 times for the maximum speedu
 |-|-|
 | 16s | 3s |
 
-You can use *italics*, **bold**, `code font text`, and create [links](https://www.markdownguide.org/cheat-sheet/). Here's a footnote [^1]. Here's a horizontal rule:
+# GPU Runtime Graphs
 
----
+It was interesting to see the raw runtime usage of the GPUs through the `nvtop` command on linux.
 
-## Lists
-
-Here's a list:
-
-- item 1
-- item 2
-
-And a numbered list:
-
-1. item 1
-1. item 2
-
-## Boxes and stuff
-
-> This is a quotation
-
-{% include alert.html text="You can include alert boxes" %}
-
-...and...
-
-{% include info.html text="You can include info boxes" %}
-
-## Images
-
-![](/images/logo.png "fast.ai's logo")
-
-## Code
-
-General preformatted text:
-
-    # Do a thing
-    do_thing()
-
-Python code and output:
-
-```python
-# Prints '2'
-print(1+1)
-```
-
-    2
-
-## Tables
-
-| Column 1 | Column 2 |
-|-|-|
-| A thing | Another thing |
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linuxlinks.com%2Fnvtop-htop-task-monitor-amd-intel-nvidia-gpus%2F&psig=AOvVaw2V0ZwOTMrEq53NKC15n3UM&ust=1714157954880000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOC-lpKG3oUDFQAAAAAdAAAAABAE))
 
 ## Footnotes
 
