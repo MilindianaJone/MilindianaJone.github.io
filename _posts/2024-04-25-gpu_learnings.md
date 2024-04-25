@@ -39,7 +39,7 @@ The GPU increased the training speed by more than 5 times for the maximum speedu
 
 It was interesting to see the raw runtime usage of the GPUs through the `nvtop` command on linux.
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linuxlinks.com%2Fnvtop-htop-task-monitor-amd-intel-nvidia-gpus%2F&psig=AOvVaw2V0ZwOTMrEq53NKC15n3UM&ust=1714157954880000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOC-lpKG3oUDFQAAAAAdAAAAABAE))
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linuxlinks.com%2Fnvtop-htop-task-monitor-amd-intel-nvidia-gpus%2F&psig=AOvVaw2V0ZwOTMrEq53NKC15n3UM&ust=1714157954880000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOC-lpKG3oUDFQAAAAAdAAAAABAE)
 
 ## Footnotes
 
