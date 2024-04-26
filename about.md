@@ -1,4 +1,4 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+I'm Milind, a 4th year Electrical and Computer Engineering Student at UQ. Find more about me on my LinkedIn: https://www.linkedin.com/in/milind-bordia/
 
